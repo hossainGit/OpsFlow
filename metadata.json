@@ -1,0 +1,6 @@
+{
+  "name": "Internal Ops Dashboard",
+  "description": "A comprehensive Internal Operations Dashboard for managing tickets, requests, approvals, and tasks with role-based access control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
